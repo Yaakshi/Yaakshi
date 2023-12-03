@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yaakshi
-- 👀 I’m interested in Cyber Security and Networking
-- 🌱 I’m currently learning Python with SQLite3, Ethical Hacking
-- 💞️ I’m looking to collaborate on ...
+- 👀 Aspirirng Cyber security enthusiast | TEDx Speaker
+- 🌱 Learning secure coding practices and Linux
+- 💞️ I’m looking to collaborate on Security-related projects
 - 📫 How to reach me yaakshi2k3@gmail.com
 
 <!---
