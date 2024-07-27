@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Yaakshi
-- 👀 Aspirirng Cyber security enthusiast | TEDx Speaker
-- 🌱 Learning secure coding practices and Linux
-- 💞️ I’m looking to collaborate on Security-related projects
-- 📫 How to reach me yaakshi2k3@gmail.com
+🚀 About Me
 
-<!---
-Yaakshi/Yaakshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Cybersecurity Analyst. I'm always excited to learn new things and share my knowledge with the community.
+
+- 📚 Learning: Cryptography, Secure coding practices, Linux, C
+- 🌐 Languages: Python, Bash, JavaScript, Java, MySQL
+- 🎓 Certifications: Google Cybersecurity Specialization, Cisco NetAcad CyberOps Associate
+
+🛠️ Skills & Tools (learning)
+- Operating Systems: Linux, Windows
+- Security Tools: Wireshark, Burp Suite
+- Other Tools: Git
+
+🤝 Connect with Me
+- [LinkedIn](www.linkedin.com/in/yaakshithaa-m-b04172205)
