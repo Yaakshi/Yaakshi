@@ -11,5 +11,4 @@ I'm a passionate Cybersecurity Analyst. I'm always excited to learn new things a
 - Security Tools: Wireshark, Burp Suite
 - Other Tools: Git
 
-🤝 Connect with Me
-- [LinkedIn](www.linkedin.com/in/yaakshithaa-m-b04172205)
+🤝 Connect with Me on - ![Linkedin](https://i.sstatic.net/gVE0j.png)
